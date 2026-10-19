@@ -1,0 +1,20 @@
+{
+  "target_url": "https://applexai.com",
+  "project_id": null,
+  "extracted_at": "2026-10-18T14:37:34",
+  "elapsed_seconds": 220.6,
+  "stats": {
+    "pages": 12,
+    "js": 187,
+    "css": 1,
+    "images": 33,
+    "fonts": 5,
+    "media": 1,
+    "other": 4,
+    "failed": 5,
+    "recovered": 0,
+    "source": 0,
+    "total_bytes": 20649100
+  },
+  "total_files": 243
+}

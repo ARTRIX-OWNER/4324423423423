@@ -1,0 +1,33 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+Allow: /about-applex-ai
+Allow: /official-verification
+Disallow: /verification
+Disallow: /dashboard
+Disallow: /owner
+Disallow: /owner-dashboard
+Disallow: /auth/callback
+Disallow: /profile
+Disallow: /settings
+Disallow: /notifications
+Disallow: /history
+Disallow: /combiner-pro
+Disallow: /live-signal
+Disallow: /voice-manager
+Disallow: /api/
+
+Sitemap: https://applexai.com/sitemap.xml
+
+

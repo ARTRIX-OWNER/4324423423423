@@ -1,0 +1,1 @@
+import{t as e}from"./cDbR3Mvfe.js";async function t(t=6e3){if(typeof window>`u`)throw Error(`session-not-ready`);let n=Date.now()+t;for(;;){var r;let{data:t}=await e.auth.getSession();if((r=t.session)!=null&&r.access_token)return;if(Date.now()>=n)throw Error(`session-not-ready`);await new Promise(e=>setTimeout(e,250))}}export{t};

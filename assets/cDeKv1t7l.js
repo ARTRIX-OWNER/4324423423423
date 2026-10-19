@@ -1,0 +1,1 @@
+import{i as e,r as t,t as n}from"./cBIl2IM49.js";var r=t({method:`POST`}).middleware([n]).handler(e(`1223ce06547fc26bdccfdd50ed1ecaf84505695da99a2b878c90b827881f53fd`));export{r as t};

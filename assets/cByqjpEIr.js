@@ -1,0 +1,1 @@
+import{l as e}from"./cBIl2IM49.js";import{r as t}from"./cCzmDCr4K.js";function n(n,r){let i=t({accessLevel:n.credits.accessLevel,tools:n.credits.tools,previewTools:n.credits.previewTools},r);if(n.credits.vipExpired&&!i||!i)throw e({to:`/dashboard`})}export{n as t};

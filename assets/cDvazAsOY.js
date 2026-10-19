@@ -1,0 +1,1 @@
+import{i as e,r as t}from"./cBIl2IM49.js";var n=t({method:`GET`}).handler(e(`418406a97cb35d8eeeb4364d0d65ae40e93cab1e93cd23915f9f9a2b609b9970`));export{n as t};
